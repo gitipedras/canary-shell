@@ -1,5 +1,0 @@
-# Canary 1.0 help manual
-
-## Commands
-
-1. Press enter to show options
